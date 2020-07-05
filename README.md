@@ -1,3 +1,4 @@
+```r
 # Precipitation-and-runoff1
 setwd("C:/Users/Dilanka/Dropbox/Thesis writting n papers/Publication/Graphs/Graphs/R graphs")
 hydrographs <- "C:/Users/Dilanka/Dropbox/Thesis writting n papers/Publication/Graphs/Graphs/R graphs"
@@ -220,5 +221,5 @@ annotate_figure(plotfinal,
                 fig.lab = "", fig.lab.face = "bold",
 ) 
 
-
+```
 
